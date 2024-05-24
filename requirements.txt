@@ -1,1 +1,5 @@
 pyarrow
+pandas
+seaborn
+matplotlib
+scikit-learn
